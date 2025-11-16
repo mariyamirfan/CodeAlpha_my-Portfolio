@@ -1,44 +1,19 @@
-# vCard - Personal portfolio
+## 👋 About Me
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Hi! I’m Mariyam — a passionate Frontend Developer who loves building clean, responsive, and user-friendly web experiences. I specialize in HTML, CSS, JavaScript, and TypeScript, and I enjoy creating modern UIs that work smoothly on every device.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+I work on a mix of projects, including AI-powered interfaces, mobile-responsive layouts, eCommerce websites, and creative media designs. I also integrate agentic AI models and develop chat-style interfaces with smart features like text-to-speech, message actions, and chat history systems.
 
-## Demo
+Currently, I have completed three major real-world projects, and I’m continuously improving my skills through hands-on learning, creativity, and experimentation.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+### 🔧 Skills  
+- Frontend Development  
+- Mobile-Responsive Web Design  
+- Agentic AI Integrations  
+- Creative UI/UX Design  
+- High-quality Images & Meme Content  
+- JavaScript & TypeScript  
 
-## Prerequisites
+### 🌱 What I’m Working On  
+Building more advanced, AI-enabled frontend projects and improving my UI/UX design skills.
 
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT
